@@ -2,10 +2,10 @@
   "name": "findev",
   "version": "1.0.0",
   "description": "finDEV API RESTFul using express",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [
     "express",
