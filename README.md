@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
- <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/ReactJS-16.x-blue"></a>
+ <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-4.x-blue"></a>
   <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node-12.x-green"></a>
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-6.x-red"></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/Npm-6.x-red"></a>
+  <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-5.x-orange"></a>
+  <a href="https://socket.io/"><img src="https://img.shields.io/badge/SocketIO-2.x-yellow"></a>
 </p>
 
 <p align="center">
