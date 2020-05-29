@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-   <a href="https://findev-api.herokuapp.com/"><img src="https://raw.githubusercontent.com/gabriel-roque/design/master/btn-open-app.png" width="200"></a>
+   <a href="https://findev-api.herokuapp.com/"><img src="https://raw.githubusercontent.com/gabriel-roque/design/master/btn-open-api.png" width="200"></a>
     <a href="https://github.com/gabriel-roque/finDEV"><img src="https://github.com/gabriel-roque/design/blob/master/btn-front-end.png?raw=true" width="200"></a>
   <a href="https://github.com/gabriel-roque/finDEV-app"><img src="https://raw.githubusercontent.com/gabriel-roque/design/master/btn-mobile.png" width="200"></a>
 </p>
